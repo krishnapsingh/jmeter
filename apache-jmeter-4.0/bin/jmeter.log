@@ -1,0 +1,172 @@
+2018-03-04 00:19:09,127 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2018-03-04 00:19:09,154 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2018-03-04 00:19:09,155 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2018-03-04 00:19:09,162 INFO o.a.j.JMeter: Copyright (c) 1998-2018 The Apache Software Foundation
+2018-03-04 00:19:09,162 INFO o.a.j.JMeter: Version 4.0 r1823414
+2018-03-04 00:19:09,162 INFO o.a.j.JMeter: java.version=1.8.0_131
+2018-03-04 00:19:09,162 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) Client VM
+2018-03-04 00:19:09,163 INFO o.a.j.JMeter: os.name=Windows 8.1
+2018-03-04 00:19:09,163 INFO o.a.j.JMeter: os.arch=x86
+2018-03-04 00:19:09,163 INFO o.a.j.JMeter: os.version=6.3
+2018-03-04 00:19:09,163 INFO o.a.j.JMeter: file.encoding=Cp1252
+2018-03-04 00:19:09,163 INFO o.a.j.JMeter: Max memory     =259522560
+2018-03-04 00:19:09,163 INFO o.a.j.JMeter: Available Processors =4
+2018-03-04 00:19:09,168 INFO o.a.j.JMeter: Default Locale=English (United States)
+2018-03-04 00:19:09,168 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2018-03-04 00:19:09,168 INFO o.a.j.JMeter: JMeterHome=C:\Users\Krishna-pc\Downloads\apache-jmeter-4.0\apache-jmeter-4.0
+2018-03-04 00:19:09,169 INFO o.a.j.JMeter: user.dir  =C:\Users\Krishna-pc\Downloads\apache-jmeter-4.0\apache-jmeter-4.0\bin
+2018-03-04 00:19:09,169 INFO o.a.j.JMeter: PWD       =C:\Users\Krishna-pc\Downloads\apache-jmeter-4.0\apache-jmeter-4.0\bin
+2018-03-04 00:19:09,170 INFO o.a.j.JMeter: IP: 192.168.43.97 Name: Krishna FullName: Krishna
+2018-03-04 00:19:09,386 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2018-03-04 00:19:09,404 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.bulenkov.darcula.DarculaLaf [Darcula]
+2018-03-04 00:19:09,404 INFO o.a.j.JMeter: Setting LAF to: com.bulenkov.darcula.DarculaLaf
+2018-03-04 00:19:09,495 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2018-03-04 00:19:10,451 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2018-03-04 00:19:10,451 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2018-03-04 00:19:11,424 INFO o.a.j.JMeter: Loading file: C:\Users\Krishna-pc\Desktop\Test Plan.jmx
+2018-03-04 00:19:11,426 INFO o.a.j.s.FileServer: Default base='C:\Users\Krishna-pc\Downloads\apache-jmeter-4.0\apache-jmeter-4.0\bin'
+2018-03-04 00:19:11,427 INFO o.a.j.s.FileServer: Set new base='C:\Users\Krishna-pc\Desktop'
+2018-03-04 00:19:11,672 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2018-03-04 00:19:11,680 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2018-03-04 00:19:11,682 INFO o.a.j.s.SaveService: Using SaveService properties version 4.0
+2018-03-04 00:19:11,687 INFO o.a.j.s.SaveService: Loading file: C:\Users\Krishna-pc\Desktop\Test Plan.jmx
+2018-03-04 00:19:11,893 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-03-04 00:19:11,893 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-03-04 00:19:11,894 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-03-04 00:19:11,894 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-03-04 00:19:11,894 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2018-03-04 00:19:11,894 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2018-03-04 00:19:11,996 INFO o.a.j.s.FileServer: Set new base='C:\Users\Krishna-pc\Desktop'
+2018-03-04 00:19:12,116 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2018-03-04 00:19:12,116 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2018-03-04 00:19:12,117 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2018-03-04 00:19:12,117 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2018-03-04 00:19:13,218 WARN o.a.j.g.ObjectTableModel: Header count=13 but classes count=11
+2018-03-04 00:19:13,219 WARN o.a.j.g.ObjectTableModel: Header count=13 but writeFunctor count=11
+2018-03-04 00:19:14,076 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2018-03-04 00:19:14,077 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\Users\Krishna-pc\Downloads\apache-jmeter-4.0\apache-jmeter-4.0\bin\proxyserver.jks
+2018-03-04 00:19:17,992 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-graphs-additional=2.0, jpgc-cmd=2.1, jpgc-graphs-composite=2.0, jpgc-csl=0.1, jpgc-functions=2.0, jpgc-casutg=2.5, jpgc-graphs-dist=2.0, jpgc-filterresults=2.1, jpgc-ggl=2.0, jpgc-fifo=0.2, bzm-parallel=0.4, jpgc-prmctl=0.3, jpgc-plugins-manager=0.19, jpgc-webdriver=2.3, jpgc-synthesis=2.1, jpgc-plancheck=2.2, jmeter-core=4.0, jmeter-ftp=4.0, jmeter-http=4.0, jmeter-jdbc=4.0, jmeter-jms=4.0, jmeter-junit=4.0, jmeter-java=4.0, jmeter-ldap=4.0, jmeter-mail=4.0, jmeter-mongodb=4.0, jmeter-native=4.0, jmeter-tcp=4.0, jmeter-components=4.0]
+2018-03-04 00:48:07,141 INFO o.a.j.e.DistributedRunner: Configuring remote engine: 127.0.0.1
+2018-03-04 00:48:07,172 ERROR o.a.j.e.DistributedRunner: Failed to create engine at 127.0.0.1
+java.rmi.ConnectIOException: Exception creating connection to: 127.0.0.1; nested exception is: 
+	java.io.FileNotFoundException: rmi_keystore.jks (The system cannot find the file specified)
+	at sun.rmi.transport.tcp.TCPEndpoint.newSocket(Unknown Source) ~[?:1.8.0_131]
+	at sun.rmi.transport.tcp.TCPChannel.createConnection(Unknown Source) ~[?:1.8.0_131]
+	at sun.rmi.transport.tcp.TCPChannel.newConnection(Unknown Source) ~[?:1.8.0_131]
+	at sun.rmi.server.UnicastRef.newCall(Unknown Source) ~[?:1.8.0_131]
+	at sun.rmi.registry.RegistryImpl_Stub.lookup(Unknown Source) ~[?:1.8.0_131]
+	at org.apache.jmeter.engine.ClientJMeterEngine.getEngine(ClientJMeterEngine.java:70) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.engine.ClientJMeterEngine.<init>(ClientJMeterEngine.java:83) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.engine.DistributedRunner.createEngine(DistributedRunner.java:237) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.engine.DistributedRunner.getClientEngine(DistributedRunner.java:213) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.engine.DistributedRunner.init(DistributedRunner.java:93) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.gui.action.RemoteStart.doAction(RemoteStart.java:80) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.gui.action.ActionRouter.performAction(ActionRouter.java:88) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.gui.action.ActionRouter.lambda$actionPerformed$0(ActionRouter.java:70) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventQueue.access$500(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventQueue$3.run(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventQueue$3.run(Unknown Source) [?:1.8.0_131]
+	at java.security.AccessController.doPrivileged(Native Method) [?:1.8.0_131]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventQueue.dispatchEvent(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventDispatchThread.run(Unknown Source) [?:1.8.0_131]
+Caused by: java.io.FileNotFoundException: rmi_keystore.jks (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_131]
+	at java.io.FileInputStream.open(Unknown Source) ~[?:1.8.0_131]
+	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.8.0_131]
+	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.8.0_131]
+	at org.apache.jmeter.rmi.SSLRMIClientSocketFactory.loadStore(SSLRMIClientSocketFactory.java:125) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.rmi.SSLRMIClientSocketFactory.createSocket(SSLRMIClientSocketFactory.java:83) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	... 27 more
+2018-03-04 00:48:16,761 INFO o.a.j.e.DistributedRunner: Failed to configure 127.0.0.1
+2018-03-04 00:48:16,761 INFO o.a.j.e.DistributedRunner: Stopping remote engines
+2018-03-04 00:48:16,761 INFO o.a.j.e.DistributedRunner: Remote engines have been stopped
+2018-03-04 00:48:16,762 ERROR o.a.j.g.a.ActionRouter: Error processing org.apache.jmeter.gui.action.RemoteStart@1f9277b
+java.lang.RuntimeException: Following remote engines could not be configured:[127.0.0.1]
+	at org.apache.jmeter.engine.DistributedRunner.init(DistributedRunner.java:112) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.gui.action.RemoteStart.doAction(RemoteStart.java:80) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.gui.action.ActionRouter.performAction(ActionRouter.java:88) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.gui.action.ActionRouter.lambda$actionPerformed$0(ActionRouter.java:70) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventQueue.access$500(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventQueue$3.run(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventQueue$3.run(Unknown Source) [?:1.8.0_131]
+	at java.security.AccessController.doPrivileged(Native Method) [?:1.8.0_131]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventQueue.dispatchEvent(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventDispatchThread.run(Unknown Source) [?:1.8.0_131]
+2018-03-04 00:52:05,052 INFO o.a.j.e.DistributedRunner: Configuring remote engine: 127.0.0.1
+2018-03-04 00:52:05,053 ERROR o.a.j.e.DistributedRunner: Failed to create engine at 127.0.0.1
+java.rmi.ConnectIOException: Exception creating connection to: 127.0.0.1; nested exception is: 
+	java.io.FileNotFoundException: rmi_keystore.jks (The system cannot find the file specified)
+	at sun.rmi.transport.tcp.TCPEndpoint.newSocket(Unknown Source) ~[?:1.8.0_131]
+	at sun.rmi.transport.tcp.TCPChannel.createConnection(Unknown Source) ~[?:1.8.0_131]
+	at sun.rmi.transport.tcp.TCPChannel.newConnection(Unknown Source) ~[?:1.8.0_131]
+	at sun.rmi.server.UnicastRef.newCall(Unknown Source) ~[?:1.8.0_131]
+	at sun.rmi.registry.RegistryImpl_Stub.lookup(Unknown Source) ~[?:1.8.0_131]
+	at org.apache.jmeter.engine.ClientJMeterEngine.getEngine(ClientJMeterEngine.java:70) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.engine.ClientJMeterEngine.<init>(ClientJMeterEngine.java:83) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.engine.DistributedRunner.createEngine(DistributedRunner.java:237) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.engine.DistributedRunner.getClientEngine(DistributedRunner.java:213) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.engine.DistributedRunner.init(DistributedRunner.java:93) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.gui.action.RemoteStart.doAction(RemoteStart.java:87) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.gui.action.ActionRouter.performAction(ActionRouter.java:88) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.gui.action.ActionRouter.lambda$actionPerformed$0(ActionRouter.java:70) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventQueue.access$500(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventQueue$3.run(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventQueue$3.run(Unknown Source) [?:1.8.0_131]
+	at java.security.AccessController.doPrivileged(Native Method) [?:1.8.0_131]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventQueue.dispatchEvent(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventDispatchThread.run(Unknown Source) [?:1.8.0_131]
+Caused by: java.io.FileNotFoundException: rmi_keystore.jks (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_131]
+	at java.io.FileInputStream.open(Unknown Source) ~[?:1.8.0_131]
+	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.8.0_131]
+	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.8.0_131]
+	at org.apache.jmeter.rmi.SSLRMIClientSocketFactory.loadStore(SSLRMIClientSocketFactory.java:125) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.rmi.SSLRMIClientSocketFactory.createSocket(SSLRMIClientSocketFactory.java:83) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	... 27 more
+2018-03-04 00:52:11,659 INFO o.a.j.e.DistributedRunner: Failed to configure 127.0.0.1
+2018-03-04 00:52:11,660 INFO o.a.j.e.DistributedRunner: Stopping remote engines
+2018-03-04 00:52:11,660 INFO o.a.j.e.DistributedRunner: Remote engines have been stopped
+2018-03-04 00:52:11,660 ERROR o.a.j.g.a.ActionRouter: Error processing org.apache.jmeter.gui.action.RemoteStart@1f9277b
+java.lang.RuntimeException: Following remote engines could not be configured:[127.0.0.1]
+	at org.apache.jmeter.engine.DistributedRunner.init(DistributedRunner.java:112) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.gui.action.RemoteStart.doAction(RemoteStart.java:87) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.gui.action.ActionRouter.performAction(ActionRouter.java:88) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.gui.action.ActionRouter.lambda$actionPerformed$0(ActionRouter.java:70) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventQueue.access$500(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventQueue$3.run(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventQueue$3.run(Unknown Source) [?:1.8.0_131]
+	at java.security.AccessController.doPrivileged(Native Method) [?:1.8.0_131]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventQueue.dispatchEvent(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_131]
+	at java.awt.EventDispatchThread.run(Unknown Source) [?:1.8.0_131]
